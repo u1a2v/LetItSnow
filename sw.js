@@ -1,16 +1,16 @@
 const staticCacheName = 'site-static-v2';
 const dynamicCacheName = 'site-dynamic-v2';
 const assets = [
-    '/',
-    '/audio/mp.ogg',
-    '/css/main.css',
-    '/img/snowflake-96.png',
-    '/img/snowflake-192.png',
-    '/img/snowflake-512.png',
-    '/js/app.js',
-    '/js/ui.js',
-    '/pages/fallback.html',
-    '/index.html'
+    './',
+    './audio/mp.ogg',
+    './css/main.css',
+    './img/snowflake-96.png',
+    './img/snowflake-192.png',
+    './img/snowflake-512.png',
+    './js/app.js',
+    './js/ui.js',
+    './pages/fallback.html',
+    './index.html'
 ];
 
 // cache size limit function
