@@ -1,5 +1,5 @@
 # LetItSnow
-PWA App with snow and MP XMas song :)
+PWA with snow and MP XMas song :)
 
 https://u1a2v.github.io/LetItSnow/
 
