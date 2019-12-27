@@ -1,0 +1,26 @@
+{
+  "name": "Let it snow!",
+  "short_name": "Let it snow!",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00314f",
+  "theme_color": "#00314f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/snowflake-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/snowflake-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/snowflake-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
